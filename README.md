@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding!!
 - 🌱 I’m currently learning Html/cSS and JavaScript
 - 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me in my discord
+- 📫 How to reach me in my discord SalahPDR#2683
 
 <!---
 SalahPDR/SalahPDR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
